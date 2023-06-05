@@ -1,0 +1,198 @@
+body{
+    background-color: rgb(190, 160, 218);
+}
+
+.GoHome{
+    position: fixed;
+    text-align: right;
+    text-decoration: none;
+}
+.GoHome a{
+    color: black;
+    text-decoration: none;
+}
+
+.GoPort {
+    text-align: right;
+    text-decoration: none;
+}
+
+.GoPort a{
+    color: black;
+    text-decoration: none;
+}
+
+.BlogHead{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.blogPosts{
+    background-color: rgba(250, 250, 250, 0.5);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.InternetPic{
+   width: 300px; 
+   height: 300px;
+}
+
+.portfolioHead{
+    text-align: center;
+}
+
+.portfolioList{
+    
+    background-color: rgba(250, 250, 250, 0.5);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+   
+    list-style-type: none;
+}
+a.portfolioList{
+    text-decoration: none;
+}
+
+.Profile{
+    background-color: rgba(250, 250, 250, 0.5);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+}
+
+.deignList{
+    background-color: rgba(250, 250, 250, 0.5);
+    list-style-type: none;
+    font-size: medium;
+    line-height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+
+}
+
+
+
+
+.deignList a{
+    color: black;
+    text-decoration: none;
+}
+
+.StyleG{
+    background-color: rgba(250, 250, 250, 0.5);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+}
+
+.wireFrameImg{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.wireFrameImg2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.WireHead{
+    font-size: medium;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.WireExpl{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Essay1{
+    text-align: center;
+    background-color: rgba(250, 250, 250, 0.5);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.ThreeLines{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.ScreenshotNav{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.SearchScreenshot{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.Oops{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.ColourScreenshot{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.Screenshot{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
